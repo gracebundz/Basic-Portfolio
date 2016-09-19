@@ -1,0 +1,30 @@
+h1 {
+	font-family: 'Georgia', 'Times', "Times New Roman", serif;
+	color:#FFFFFF;
+}
+body {
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+header {
+	background-color:#4aaaa5;
+	width:20%;
+	padding-left:10px;
+}
+h2 {
+	color:#4aaaa5;
+}
+p {
+	text-align:center;
+}
+ul {
+	float:right;
+}
+img {
+	float:left;
+	height:30%;
+	padding-left: 40px;
+}
+h3 {
+	color:#4aaaa5;
+	text-align:center;
+}
