@@ -28,3 +28,10 @@ h3 {
 	color:#4aaaa5;
 	text-align:center;
 }
+.footer {
+	position:absolute;
+	background-color: #666666;
+	right:0;
+	bottom:0;
+	text-align:center;
+}
